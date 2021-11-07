@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "dce883096191f8273e20182ebc9e3a15"
+    "revision": "077579f784c8b01a414257e9b9c7214c"
   },
   {
     "url": "assets/css/0.styles.6429295e.css",
@@ -102,64 +102,108 @@ self.__precacheManifest = [
     "revision": "bce751724b3f603b959cc6678fd07170"
   },
   {
-    "url": "assets/js/app.750d459b.js",
-    "revision": "b5b42adf90dc8f9605a3fd4e9e09c4e6"
+    "url": "assets/js/app.04f4db82.js",
+    "revision": "bf92c259b10007545fb556a7150ab251"
+  },
+  {
+    "url": "bg.svg",
+    "revision": "2cfdbb338a1d44d700b493d7ecbe65d3"
   },
   {
     "url": "categories/index.html",
-    "revision": "52dd2e15613851563a1dfe373e64cca2"
+    "revision": "97efc9139d02587e37edfbe75b80225d"
   },
   {
     "url": "categories/JavaScript/index.html",
-    "revision": "b79a4937b059eee97985d5fe592d4384"
+    "revision": "a43cc08585e08e33041cca4a47b6b032"
+  },
+  {
+    "url": "head.jpg",
+    "revision": "0a435270d375a10e26331717f7180297"
+  },
+  {
+    "url": "head.png",
+    "revision": "0a435270d375a10e26331717f7180297"
   },
   {
     "url": "index.html",
-    "revision": "8958cede375343be8f86fdadecceb743"
+    "revision": "39f6d59a13cafc338055b48864bec7c8"
   },
   {
     "url": "tag/EventLoop/index.html",
-    "revision": "8cd5cbd15926936bdae1591011600ca1"
+    "revision": "9f7cba91123b5e979901eefa21cddcc7"
   },
   {
     "url": "tag/index.html",
-    "revision": "7555b0c27580dd5b3ec1bdb7e4f8f9e2"
+    "revision": "642989af074becd231b40e926aa9b390"
   },
   {
     "url": "tag/JavaScript/index.html",
-    "revision": "70db06196d6c055f2245b5c94a792a7f"
+    "revision": "f49480b57054b1ab9faa34d3d6742c95"
   },
   {
     "url": "tag/前端/index.html",
-    "revision": "e0d1fa88ffcebac32e85c14bcdd5876d"
+    "revision": "1a748c49729dd53528c910d1153a41ea"
   },
   {
     "url": "timeline/index.html",
-    "revision": "56b8ca82fe302149e352aa9a5b833b26"
+    "revision": "65772593e53cec2b0d86b56088e862d6"
   },
   {
     "url": "views/Javascript/EC.html",
-    "revision": "b63f8795e7746a7698195fb777d782ca"
+    "revision": "dce894d6f63d4b54a94d629ec68fc763"
   },
   {
     "url": "views/Javascript/EventLoop.html",
-    "revision": "7709dd724ffb3c0fdbee7c24ca17c24a"
+    "revision": "04370dfdecebb01b140b5c397ecc5a7e"
   },
   {
     "url": "views/npm/verdaccio.html",
-    "revision": "0bf1479816786cf6bb2d20edc2405fd0"
+    "revision": "8dc3b7d096656cae9e537956c700793c"
   },
   {
     "url": "views/system/index.html",
-    "revision": "758b3f7cdd149b97158344ce10b66052"
+    "revision": "204695fc545dca578030555c280802ee"
   },
   {
     "url": "views/tools/ChromeDevTools.html",
-    "revision": "7bf4b6a409d743a3dbec130e4e466cff"
+    "revision": "d7936cd56b5ea810ba12d87ec5eec32b"
   },
   {
     "url": "views/tools/VscodePlugins.html",
-    "revision": "cb67493f854b9561858bdbfdbcb98d91"
+    "revision": "68e183cbd03fdef9886593a893b09f75"
+  },
+  {
+    "url": "vscode/AutoCloseTag.gif",
+    "revision": "11b188a33610037a92de75e936d4837a"
+  },
+  {
+    "url": "vscode/AutoRenameTag.gif",
+    "revision": "304d2802620974eeb369a6302f50cfc0"
+  },
+  {
+    "url": "vscode/BracketPairColorizer.png",
+    "revision": "31cecfd757a49852fb8ab8df94690c22"
+  },
+  {
+    "url": "vscode/coderun.gif",
+    "revision": "3800f80b36e4433d39782aafcbf5cdb2"
+  },
+  {
+    "url": "vscode/codeSpellCheck.gif",
+    "revision": "ded807cc35167a66dd074db6c96badba"
+  },
+  {
+    "url": "vscode/colorHighlight.png",
+    "revision": "ddf89ba1906c762adc0785a4b76cb635"
+  },
+  {
+    "url": "vscode/gitLogv3.gif",
+    "revision": "7635e8c56abeb0028a1d0345324f664e"
+  },
+  {
+    "url": "vscode/koroFileHeader.gif",
+    "revision": "b29f0a9ed810ad8bfd74d3ec1de2b30e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
