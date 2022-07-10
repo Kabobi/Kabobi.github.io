@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "dc487911db7e7bee1673ef6f38de2fe5"
+    "revision": "746110cdf32a3e66c1ccfe181367d71d"
   },
   {
     "url": "assets/css/0.styles.dfbb5472.css",
@@ -106,8 +106,8 @@ self.__precacheManifest = [
     "revision": "42dbbf3d5e7c969567b013eb0de0f110"
   },
   {
-    "url": "assets/js/app.d8d290fb.js",
-    "revision": "75dbb1d98c144e5358926cba1df1fc07"
+    "url": "assets/js/app.b4df0c51.js",
+    "revision": "e4c02f9eabddd522c1816a443d0a982c"
   },
   {
     "url": "bg.svg",
@@ -115,11 +115,11 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "25ce244e13504f28e9119d15dc2abc5b"
+    "revision": "3d5973c5d4b17d7f758eaa5ebb739d25"
   },
   {
     "url": "categories/工具/index.html",
-    "revision": "a1894f502376383db73b50f0705ef67b"
+    "revision": "fe5f9cc1b9557b9948f0e2bc35838835"
   },
   {
     "url": "head.jpg",
@@ -131,51 +131,51 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2acb6f44aace3b91865a14f7810cdc34"
+    "revision": "1d571908206d6c01eff18aa5b544829b"
   },
   {
     "url": "tag/devTools/index.html",
-    "revision": "ae23a2749d82f95185a4141fa70ce3b0"
+    "revision": "dabe5a3ffdf1bf4dc3c745ba5e1ea343"
   },
   {
     "url": "tag/index.html",
-    "revision": "dfb3ae781b8f9ee5e04904e9e67dab72"
+    "revision": "e295dc2c7def1e40a20b40d3c3220160"
   },
   {
     "url": "tag/plugin/index.html",
-    "revision": "0d45beac84946714f668c646e50aa445"
+    "revision": "7bfa2cbce4d4c4a6e848bcbf0bbcf9e6"
   },
   {
     "url": "tag/Visual Studio Code/index.html",
-    "revision": "39e793f2684be836182c5ca32f7b1dd9"
+    "revision": "be832fa661796ec86c4e668a69fa65d5"
   },
   {
     "url": "tag/vscode/index.html",
-    "revision": "3be539ec3be9d09c677c9dc7e38797d5"
+    "revision": "9448012961d9350c2ebbaa236a2c136e"
   },
   {
     "url": "timeline/index.html",
-    "revision": "817eda075e589e1f20759701001b8fd9"
+    "revision": "05d659f11b0d7ef7b902c5af25544bc7"
   },
   {
     "url": "views/Javascript/EC.html",
-    "revision": "ea3a60c3f42b966ef9b1683ea9fb0d8d"
+    "revision": "4b33c2edeecfbb8788ccab056c6280db"
   },
   {
     "url": "views/tools/ChromeDevTools.html",
-    "revision": "720288bda6fffc1110676d23e97de09b"
+    "revision": "51a47faf8ce966c64b38a583e13188eb"
   },
   {
     "url": "views/tools/CSSNavigation.html",
-    "revision": "5c4743218f158f5fdff739a3bc690fd3"
+    "revision": "0ae20c7e4d660310fca4601738c83cd8"
   },
   {
     "url": "views/tools/VscodePlugins.html",
-    "revision": "5173b1c54b69a46ddc0a66037ff18173"
+    "revision": "7d7f7b49f74aa9067bab89257c377440"
   },
   {
     "url": "views/webpack/webpack4.html",
-    "revision": "39d035b8bb056423437fa7176965f5a3"
+    "revision": "b7119c6837bd92d2e09d5de22f3d2ab7"
   },
   {
     "url": "vscode/AutoCloseTag.gif",
