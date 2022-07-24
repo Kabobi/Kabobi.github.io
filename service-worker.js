@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "01dd7b49cde0217ec5f606746c81a55b"
+    "revision": "a21fe52d10e4e4993042afa0f0b570b8"
   },
   {
     "url": "assets/css/0.styles.88c5fdfd.css",
@@ -54,28 +54,28 @@ self.__precacheManifest = [
     "revision": "8cb67150eb0def8afcc624e83354a09b"
   },
   {
-    "url": "assets/js/13.73972623.js",
-    "revision": "d4fcb87e5000985d4fa8c0dd3d1b438b"
+    "url": "assets/js/13.f2107a5c.js",
+    "revision": "3fa050827e2f8cd43ecbc4ce931090ca"
   },
   {
-    "url": "assets/js/14.9e4c1214.js",
-    "revision": "1e2bc528838b5adf805c57a3429fb310"
+    "url": "assets/js/14.ed40b842.js",
+    "revision": "3928e5e159acfdfd46c1916dcd23dc65"
   },
   {
-    "url": "assets/js/15.7bfa3960.js",
-    "revision": "0d5fe18cd7045bde4855d6c8429529da"
+    "url": "assets/js/15.8b7b3ff8.js",
+    "revision": "1e29889076032c123cb3ddc2adcf9395"
   },
   {
-    "url": "assets/js/16.355404e9.js",
-    "revision": "211753fdb3376e557beb239ee56cf924"
+    "url": "assets/js/16.3f2d31cc.js",
+    "revision": "ec5f88b1b5ab8abe213e9a661ae6bc4c"
   },
   {
-    "url": "assets/js/17.c12391ce.js",
-    "revision": "bfdbdb900062fa6a470af7286fb289ad"
+    "url": "assets/js/17.e2b98eca.js",
+    "revision": "374c0e16f759aa5c639659775d7f3375"
   },
   {
-    "url": "assets/js/18.fa9fad58.js",
-    "revision": "a1f182e8d2f2f3f1abbcf8d9cf738768"
+    "url": "assets/js/18.2f2af11b.js",
+    "revision": "a41dac616fd814508933f440d5f0e973"
   },
   {
     "url": "assets/js/3.ff47f585.js",
@@ -106,8 +106,8 @@ self.__precacheManifest = [
     "revision": "ed712d6aefe3c36f7864268e04464737"
   },
   {
-    "url": "assets/js/app.a5096d25.js",
-    "revision": "a7bbfb575a198dbbfea0f96089f24981"
+    "url": "assets/js/app.4925d141.js",
+    "revision": "bdcf6ab762ab4c03e34121bdf8b80b1a"
   },
   {
     "url": "bg.svg",
@@ -115,15 +115,15 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "7fc686bd43b66695cf7cf75564d8606a"
+    "revision": "3a5310bdfb20abed6ff8e393687d7195"
   },
   {
     "url": "categories/Visual Studio Code/index.html",
-    "revision": "09f44b28c9fabd73cc67d2234fe0f7a6"
+    "revision": "6143299e867055fa279469344cfb860b"
   },
   {
     "url": "categories/工程化/index.html",
-    "revision": "a0cd922e1014f4649f5b3414bb0de257"
+    "revision": "18a9b7c92b81800cc65912d48d1af23b"
   },
   {
     "url": "head.jpg",
@@ -135,107 +135,107 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6d1885652741c2d7bbc3e37eb6b6306e"
+    "revision": "fcd445d619d7e17929b01aaf3b976ddf"
   },
   {
     "url": "tag/babel/index.html",
-    "revision": "1c438cc44754b6d54a70d50beb911df8"
+    "revision": "d8de6e69ef02b43738b0933ac6e3ce72"
   },
   {
     "url": "tag/Chrome/index.html",
-    "revision": "8413788fb39f73a02faf1874e86cb335"
+    "revision": "a51d8910d900645ab0edfd405627cc45"
   },
   {
     "url": "tag/core-js/index.html",
-    "revision": "4392020ada8adfb09fe970da6337a148"
+    "revision": "326d4aba9061cf393ac70f65ccc423f5"
   },
   {
     "url": "tag/css/index.html",
-    "revision": "598c55e01261edf5727c5a0c47048703"
+    "revision": "d74791db4f622b915000b16ed02f8919"
   },
   {
     "url": "tag/devTools/index.html",
-    "revision": "0d7d2fc49fd5d941722c1789d2121be7"
+    "revision": "4cfea99f0005b9f5f4f5f7885086305f"
   },
   {
     "url": "tag/index.html",
-    "revision": "4d630ea07ac5b982dfa917eddbecff21"
+    "revision": "944fd068463e9d7e700fdcf2c540cefa"
   },
   {
     "url": "tag/JavaScript/index.html",
-    "revision": "47efbec73240b2173a34ebc99881ad74"
+    "revision": "fcd524eb0b289b865b9ea9add7baa899"
   },
   {
     "url": "tag/plugin/index.html",
-    "revision": "f1b5871ced79e007995943914c5548a6"
+    "revision": "c375e37792ca6989b0fa77b5ebe4d28b"
   },
   {
     "url": "tag/plugins/index.html",
-    "revision": "6c78eb782abf93809231fb960df63256"
+    "revision": "1737360071dfeaf8f878d266ff729a92"
   },
   {
     "url": "tag/polyfill/index.html",
-    "revision": "0f0c181ac36b0d3eb6141914ea0549cc"
+    "revision": "22064e8ea9295e976a9db429081b949f"
   },
   {
     "url": "tag/setting/index.html",
-    "revision": "7db7820dc1b0274f47ae5c0eaaccf6ed"
+    "revision": "0004cfbd7a4cfc44e8804256b0ba29f2"
   },
   {
     "url": "tag/Visual Studio Code/index.html",
-    "revision": "e677dc014f94922d0afa4a24b2cefddc"
+    "revision": "ed34fa99039dab944d13700a407b85a1"
   },
   {
     "url": "tag/vscode/index.html",
-    "revision": "7754b08e5330640fe5bfde513bc6d8fa"
+    "revision": "24a062c70efd4dcd88d48c3c6572dee9"
   },
   {
     "url": "tag/webpack/index.html",
-    "revision": "49705164e3010793b0292a093b8dd38b"
+    "revision": "45a6926541f531b1115c243b7323a799"
   },
   {
     "url": "tag/优化/index.html",
-    "revision": "aae6534945b830a35ff955f1ec34a1bd"
+    "revision": "540b3567455f761229082b31747844ed"
   },
   {
     "url": "tag/升级/index.html",
-    "revision": "7cdf976eb190be412f63c56a68133b4d"
+    "revision": "993efec855804160176b5fc3bab4678c"
   },
   {
     "url": "tag/工程化/index.html",
-    "revision": "99b05c0bc7819beb0c2e806f7c2be3db"
+    "revision": "a837286314f4db6e4be37ef7d7bbc74d"
   },
   {
     "url": "timeline/index.html",
-    "revision": "04161c43a31793a1b1069008b67b0889"
+    "revision": "5c35fce692c785c8fa33c7bd8de5ac2d"
   },
   {
     "url": "views/babel/index.html",
-    "revision": "f56b26c9bb916dd866a0fb26853a98fc"
+    "revision": "89004254d6f0736a59c21cfd04c685a2"
   },
   {
     "url": "views/Javascript/EC.html",
-    "revision": "9c835889f9326245f11ad97f583a329a"
+    "revision": "ef192a5330459669bd0304b2917bfd6f"
   },
   {
     "url": "views/tools/ChromeDevTools.html",
-    "revision": "4f4deebcc51d0c5005666c385ebce10b"
+    "revision": "bf3bc6ac0f7c682ae7d304097a79a469"
   },
   {
     "url": "views/vscode/CSSNavigation.html",
-    "revision": "5c8d6a31162b4d9070a1570b5142897b"
+    "revision": "50f43f6471448436b033d82fe22d18f4"
   },
   {
     "url": "views/vscode/VscodePlugins.html",
-    "revision": "32a4320cf85e3dcfc7178194118be2e2"
+    "revision": "9d4b757fc4d44821c64fa73841627869"
   },
   {
     "url": "views/vscode/VscodeSetting.html",
-    "revision": "2751cc259ee1ec6c1f194f4c522a26ee"
+    "revision": "7dbe6ed3efc7102c95365b2a148048ac"
   },
   {
     "url": "views/webpack/webpack4.html",
-    "revision": "eb3ba0828074b2c73f27eb9a661992c0"
+    "revision": "2b01257356d6d27e3cc10e93fe5d6215"
   },
   {
     "url": "vscode/AutoCloseTag.gif",
